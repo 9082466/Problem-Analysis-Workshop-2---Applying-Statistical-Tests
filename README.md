@@ -100,4 +100,3 @@ This workshop is intended for:
 4. Use the `data/` and `images/` directories for reference.  
 5. Reflect and extend exercises with your own datasets.
 
----
